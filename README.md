@@ -1,6 +1,6 @@
 # Analysis of Wordle Words
 
-Scraping a list of all Wordle words that have been played so far and running some statistics on letters used. Want to look at how each letter is used and in what positions. Also want to consider analyzing use of "double" letters - as in same letter used twice, not necessarily in succession. This all should be set up to run every day if you want to continue to run it and add in the new words
+Scraping a list of all Wordle words that have been played so far and running some statistics on letters used. Want to look at how each letter is used and in what positions. Also want to consider analyzing use of "double" letters - as in same letter used twice, not necessarily in succession. This all should be set up to run every day if you want to continue to run it and add in the new words. The Wordle words were scraped from the following website: https://www.techradar.com/news/past-wordle-answers
 
 ## Table of Contents:
 - Web Scraping
